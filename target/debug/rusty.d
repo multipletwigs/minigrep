@@ -1,0 +1,1 @@
+/Users/zach/Documents/serious\ code/rusty/target/debug/rusty: /Users/zach/Documents/serious\ code/rusty/src/main.rs /Users/zach/Documents/serious\ code/rusty/src/minigrep/minigrep.rs /Users/zach/Documents/serious\ code/rusty/src/minigrep/mod.rs
